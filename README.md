@@ -1,5 +1,24 @@
 ## Bem-vindo(a) ao perfil do Mike 😁
 
+##Desenvolvedor
+ <p>
+   Atualmente trabalho como suporte técnico, uso o git para salvar alguns códigos que utilizo no meu dia a dia.
+ </p>
+ <p>Hard Skills</p>
+ <li>
+ <ul>HTML5</ul>
+ <ul>CSS3</ul>
+ <ul>Javascript</ul>
+ <ul>React Native</ul>
+ <ul>ReactJS</ul>
+ <ul>NodeJS</ul>
+</li>
+<p>Soft Skills</p>
+ <li>
+ <ul>Aprendo rapido</ul>
+ <ul>trabalho em equipe</ul>
+ <ul>solução de problemas</ul>
+</li>
  <div>
    <a href="https://github.com/milugarco">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milugarco&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -15,8 +34,5 @@
  <br>
  
 <div> 
- 
-
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
 </div>
