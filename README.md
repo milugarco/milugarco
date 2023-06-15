@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mike 😁
+## Welcome to Mike's profile 😁
 
  <div>
    <a href="https://github.com/milugarco">
